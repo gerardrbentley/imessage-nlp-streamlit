@@ -6,7 +6,7 @@ Built with ❤️ by [Gar's Bar](https://tech.gerardbentley.com)
 
 Example:
 
-![Image with most positive text and scores per message partner](2022-05-10-13-26-21.png)
+![Image with most positive text and scores per message partner](images/demo.png)
 
 ## What's this?
 
@@ -20,8 +20,7 @@ Example:
 - `requirements.dev.txt`: Provides packages useful for development but not necessarily production deployment. Also includes all of `requirements.txt` via `-r`
 - `pyproject.toml`: Provides a main configuration point for Python dev tools
 - `.flake8`: Because `flake8` doesn't play nicely with `pyproject.toml` out of the box
-- `.pre-commit-config.yaml`: Provides safeguards for what you commit and push to your repo
-- `tests/`: Folder for tests to be picked up by `pytest`
+
 
 ## Local Setup
 
